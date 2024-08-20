@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Thompson",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Engaging lectures and clear explanations. Challenging but fair exams."
+      },
+      {
+        "professor": "Prof. Michael Chen",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Brilliant instructor. Makes complex topics accessible and fun."
+      },
+      {
+        "professor": "Dr. Sarah Johnson",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "Knowledgeable, but sometimes disorganized. Office hours were helpful."
+      },
+      {
+        "professor": "Prof. David Rodriguez",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Thorough explanations, though pace can be fast. Great problem sets."
+      },
+      {
+        "professor": "Dr. Lisa Patel",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Fantastic lab instructor. Patient and encouraging with all students."
+      },
+      {
+        "professor": "Prof. James Wilson",
+        "subject": "History",
+        "stars": 2,
+        "review": "Dry lectures, heavy on memorization. Not very engaging."
+      },
+      {
+        "professor": "Dr. Angela Martinez",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Thought-provoking discussions. Assignments encourage critical thinking."
+      },
+      {
+        "professor": "Prof. Robert Taylor",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "Brilliant mind, but struggles to explain concepts clearly sometimes."
+      },
+      {
+        "professor": "Dr. Nicole Foster",
+        "subject": "English Literature",
+        "stars": 5,
+        "review": "Passionate about the subject. Inspires students to dive deeper into texts."
+      },
+      {
+        "professor": "Prof. Kevin Lee",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Real-world examples make concepts easy to grasp. Fair grader."
+      },
+      {
+        "professor": "Dr. Rachel Green",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Engaging field trips and practical projects. Very knowledgeable."
+      },
+      {
+        "professor": "Prof. Thomas Brown",
+        "subject": "Philosophy",
+        "stars": 3,
+        "review": "Interesting topics, but can be abstract. Classroom discussions are good."
+      },
+      {
+        "professor": "Dr. Olivia Wang",
+        "subject": "Neuroscience",
+        "stars": 4,
+        "review": "Challenging course, but Dr. Wang makes it manageable. Great labs."
+      },
+      {
+        "professor": "Prof. Mark Johnson",
+        "subject": "Political Science",
+        "stars": 2,
+        "review": "Seems biased in lectures. Grading criteria not always clear."
+      },
+      {
+        "professor": "Dr. Samantha Lee",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Passionate and knowledgeable. Museum visits were highlights."
+      },
+      {
+        "professor": "Prof. Daniel White",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "Solid explanations, but pacing is sometimes too quick."
+      },
+      {
+        "professor": "Dr. Laura Miller",
+        "subject": "Linguistics",
+        "stars": 4,
+        "review": "Fascinating subject matter. Dr. Miller is approachable and helpful."
+      },
+      {
+        "professor": "Prof. Christopher Davis",
+        "subject": "Business Ethics",
+        "stars": 5,
+        "review": "Thought-provoking case studies. Encourages critical thinking."
+      },
+      {
+        "professor": "Dr. Jessica Taylor",
+        "subject": "Genetics",
+        "stars": 4,
+        "review": "Clear explanations of complex topics. Helpful office hours."
+      },
+      {
+        "professor": "Prof. Alexander Kim",
+        "subject": "Music Theory",
+        "stars": 3,
+        "review": "Knowledgeable, but assignments can be unclear. Engaging class discussions."
+      }
+    ]
+  }
